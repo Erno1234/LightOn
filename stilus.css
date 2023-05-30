@@ -1,0 +1,12 @@
+main{
+    margin: auto;
+    max-width: 70%;
+}
+#Jatekter{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr 3fr;
+}
+.Lampa{
+    border: 1px solid black;
+    text-align: center;
+}
