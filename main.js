@@ -1,4 +1,4 @@
 import JatekTer from "./Jatekter.js"
 $(function(){
-    const jatek = new JatekTer(5);
+    const jatek = new JatekTer(3);
 })
